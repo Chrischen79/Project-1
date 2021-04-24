@@ -16,9 +16,9 @@ This project builds a machine learning model to predict listing price using the 
 ## Summary of the results
 The results show that it is possible to build a machine learning model to predict the listing price of properties. We expect the prediction error is ~$47.2. The model shows that the predicted price is much lower than the listing price for the expensive properties (>$423).
 ## CRISP-DM
-1. Business understanding - To build a model to predict listing price in Boston. There are several other questions. See the blog.
+1. Business understanding - To build a model to predict listing price in Boston. There are several other questions to be answered. See the blog.
 2. Data understanding - Airbnb Boston data
 3. Data preparation - see the blog and jupyter file
 4. Modeling - Random forest
 5. Evaluation - see the blog and jupyter file
-6. Deployment - predict listing price of properties in Boston
+6. Deployment - predict listing price of properties in Boston - see the blog and jupyter file
