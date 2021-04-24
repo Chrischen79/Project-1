@@ -9,6 +9,8 @@
 7. sklearn
 ## Motivation for the project
 This project builds a machine learning model to predict listing price using the Airbnb Boston data and is submitted in partial fulfillment of the requirements for Project 1 of DS course.
+## Blog link:
+"Do a machine learning model before you book on Airbnb" https://schen162.medium.com/do-a-machine-learning-model-before-you-book-on-airbnb-26df91f08182
 ## Files description
 1. Figs 1-9: Figures used in article "Do a machine learning model before you book on Airbnb" https://schen162.medium.com/do-a-machine-learning-model-before-you-book-on-airbnb-26df91f08182
 2. Project1.ipynb: Jupyter Notebook file including codes.
